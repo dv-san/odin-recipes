@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a test of my foundational knowledge and understanding of HTML and effective Git commits. I will be creating a basic site with links to various recipes as a demonstration of what I have learned so far.
